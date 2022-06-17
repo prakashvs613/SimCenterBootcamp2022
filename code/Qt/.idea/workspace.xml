@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f72de822-c1ff-4cba-9884-63236c00deda" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../jupyter/HomeworkExercises/02.1 Exercise numpy.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../jupyter/HomeworkExercises/02.1 Exercise numpy.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jupyter/HomeworkExercises/Solutions/02.2 Solution of Exercise numpy.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../jupyter/HomeworkExercises/Solutions/02.2 Solution of Exercise numpy.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jupyter/HomeworkExercises/Solutions/02.4 Solution for Exercise on more matrix operations.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../jupyter/HomeworkExercises/Solutions/02.4 Solution for Exercise on more matrix operations.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jupyter/LessonNotes/.ipynb_checkpoints/Lesson  05-File IO-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../jupyter/LessonNotes/.ipynb_checkpoints/Lesson  05-File IO-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jupyter/LessonNotes/Lesson  02-Data Types and Loops.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../jupyter/LessonNotes/Lesson  02-Data Types and Loops.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jupyter/LessonNotes/Lesson  03-Loops and matrix operations.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../jupyter/LessonNotes/Lesson  03-Loops and matrix operations.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jupyter/LessonNotes/Lesson  04-some more numpy and plotting.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../jupyter/LessonNotes/Lesson  04-some more numpy and plotting.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jupyter/LessonNotes/Lesson  05-File IO.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../jupyter/LessonNotes/Lesson  05-File IO.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jupyter/LessonNotes/Solutions/.ipynb_checkpoints/Lesson  03.1-Loops and matrix operations SOLUTION-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../jupyter/LessonNotes/Solutions/.ipynb_checkpoints/Lesson  03.1-Loops and matrix operations SOLUTION-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jupyter/LessonNotes/Solutions/Lesson  03.1-Loops and matrix operations SOLUTION.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../jupyter/LessonNotes/Solutions/Lesson  03.1-Loops and matrix operations SOLUTION.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jupyter/LessonNotes/Solutions/Lesson  05.1-File IO SOLUTION.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../jupyter/LessonNotes/Solutions/Lesson  05.1-File IO SOLUTION.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jupyter/SelfStudyResources/04 File handling.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../jupyter/SelfStudyResources/04 File handling.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jupyter/SelfStudyResources/05 Classes.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../jupyter/SelfStudyResources/05 Classes.ipynb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2AfKHNuCyK2S7jTEy4lNJd90QtW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f72de822-c1ff-4cba-9884-63236c00deda" name="Changes" comment="" />
+      <created>1655395111519</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1655395111519</updated>
+    </task>
+    <servers />
+  </component>
+</project>

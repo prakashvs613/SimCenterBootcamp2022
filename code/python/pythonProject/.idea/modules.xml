@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Day4Demo/.idea/Day4Demo.iml" filepath="$PROJECT_DIR$/../Day4Demo/.idea/Day4Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../OO_Truss_Challenge/.idea/OO_Truss_Challenge.iml" filepath="$PROJECT_DIR$/../OO_Truss_Challenge/.idea/OO_Truss_Challenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/pythonProject.iml" filepath="$PROJECT_DIR$/.idea/pythonProject.iml" />
+    </modules>
+  </component>
+</project>
