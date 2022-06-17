@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # # This is a sample Python script.
 #
 # # Press Shift+F10 to execute it or replace it with your code.
@@ -27,3 +28,9 @@ for x in range(5):
 
 
 
+=======
+from square import *
+
+for x in range(5):
+    print(square(x))
+>>>>>>> upstream/main
