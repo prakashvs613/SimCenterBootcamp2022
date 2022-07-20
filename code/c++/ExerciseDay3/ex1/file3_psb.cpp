@@ -5,39 +5,28 @@
 // code is written using C language, rewrite using C++ language
 //
 
-#include <iostream>
-#include <fstream>
-using namespace std
+#include <stdio.h>
+#include <stdlib.h>
 
 int main(int argc, char **argv) {
 
   if (argc != 2) {
-    cout << "ERROR correct usage appName inputFile\n";
+    fprintf(stdout, "ERROR correct usage appName inputFile\n");
     return -1;
   }
   
-  // FILE *filePtr = fopen(argv[1],"r"); 
-  ifstream inData;
-  inData.open(argv[1], ifstream::in);
+  FILE *filePtr = fopen(argv[1],"r"); 
 
   int i = 0;
   float float1, float2;
   int maxVectorSize = 100;
   
   double *vector1 = new double[maxVectorSize];
-  double *vector2 = new double[maxVectorSize];
+  double *vector2 = (double *)malloc(maxVectorSize*sizeof(double));  
  
   int vectorSize = 0;
   
-  //  while (fscanf(filePtr,"%d, %f, %f\n", &i, &float1, &float2) != EOF) {
-  while (!inData.eof()) {
-    char p1; 
-    inData >> i >> p1 >> float1 >> p1 >> float2;
-    vector1[vectorSize] = float1; 
-    vector2[vectorSize] = float2; 
-    cout << i << " " << float1 << " " << float2 << "\n"; 
-
-
+  while (fscanf(filePtr,"%d, %f, %f\n", &i, &float1, &float2) != EOF) {
     vector1[vectorSize] = float1;
     vector2[vectorSize] = float2;
     printf("%d, %f, %f\n",i, vector2[i], vector1[i]);
