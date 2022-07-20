@@ -6,6 +6,7 @@
 int main(int argc, char **argv) {
   int a = 5;
   int b = 2;
+  int c;
 
   c = a+b;
   printf("%d and %d is %d  \n", a, b, c);

@@ -20,4 +20,5 @@ int main(int argc, char **argv) {
 
   printf(" Point1: x %10f y%10f\n", p1.x, p1.y);
   printf(" Point2: x %10f y%10f\n", p2.x, p2.y);  	 
+  return 0;
 }

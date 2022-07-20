@@ -1,7 +1,7 @@
 #include "Circle.h"
 
 Circle::~Circle() {
-  std::cout << "Circle Destructor\n";
+  std::cout << "Circle Destructor \n";
 }
 
 Circle::Circle(double radius, string color)
@@ -19,4 +19,3 @@ double
 Circle::getPI(void) {
   return 3.14159;
 }
-
