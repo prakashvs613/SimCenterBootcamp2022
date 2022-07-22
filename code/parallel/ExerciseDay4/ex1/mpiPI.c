@@ -4,7 +4,7 @@
 #include <math.h>
 #define LUMP 1
 
-static long int numSteps = 1000000000;
+static long int numSteps = 1000000000; //
 
 int main(int argc, char **argv) {
   
